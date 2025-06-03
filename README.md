@@ -17,7 +17,9 @@ WinLogHunt is a PowerShell-based tool designed for Blue Teams and Incident Respo
 ```powershell
 >>powershell -ExecutionPolicy Bypass -File .\WinLogHunt.ps1
 ```
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/2AYCJrX"  ><a href="//imgur.com/a/2AYCJrX">WinLogHunt</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<p align="center">
+    <img width="50%" src="https://i.imgur.com/VzEgtDz.png"> 
+</p>
 
 2. Choose from the options menu:
    - Start log investigation (default 24 hours)
