@@ -18,7 +18,7 @@ WinLogHunt is a PowerShell-based tool designed for Blue Teams and Incident Respo
 >>powershell -ExecutionPolicy Bypass -File .\WinLogHunt.ps1
 ```
 <p align="center">
-    <img width="50%" src="https://imgur.com/a/2AYCJrX"> 
+    <img width="50%" src="https://i.imgur.com/94Xxs6W.png"> 
 </p>
 
 2. Choose from the options menu:
