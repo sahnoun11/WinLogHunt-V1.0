@@ -2,6 +2,10 @@
 
 WinLogHunt is a PowerShell-based tool designed for Blue Teams and Incident Responders to quickly analyze Windows event logs for suspicious activities.
 
+<p align="center">
+    <img width="50%" src="https://i.imgur.com/F2zaE4k.jpeg"> 
+</p>
+
 ## Features
 
 - Comprehensive analysis of Windows event logs (Security, System, Application, PowerShell)
