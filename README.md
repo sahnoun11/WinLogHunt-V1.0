@@ -1,6 +1,6 @@
-# WinLogHunt - Endpoint Log Investigation Tool
+# WinLogHunt-V1.0-V1.0 - Endpoint Log Investigation Tool
 
-WinLogHunt is a PowerShell-based tool designed for Blue Teams and Incident Responders to quickly analyze Windows event logs for suspicious activities.
+WinLogHunt-V1.0 is a PowerShell-based tool designed for Blue Teams and Incident Responders to quickly analyze Windows event logs for suspicious activities.
 
 <p align="center">
     <img width="50%" src="https://i.imgur.com/F2zaE4k.jpeg"> 
@@ -19,7 +19,7 @@ WinLogHunt is a PowerShell-based tool designed for Blue Teams and Incident Respo
 
 1. Run the main script:
 ```powershell
->>powershell -ExecutionPolicy Bypass -File .\WinLogHunt.ps1
+>>powershell -ExecutionPolicy Bypass -File .\WinLogHunt-V1.0.ps1
 ```
 <p align="center">
     <img width="50%" src="https://i.imgur.com/VzEgtDz.png"> 
