@@ -19,7 +19,7 @@ WinLogHunt-V1.0 is a PowerShell-based tool designed for Blue Teams and Incident 
 
 1. Run the main script:
 ```powershell
->>powershell -ExecutionPolicy Bypass -File .\WinLogHunt-V1.0.ps1
+>>powershell -ExecutionPolicy Bypass -File .\WinLogHunt.ps1
 ```
 <p align="center">
     <img width="50%" src="https://i.imgur.com/VzEgtDz.png"> 
